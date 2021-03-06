@@ -19,6 +19,7 @@ properties.
 
 • **Delete:** removes and returns the specified position element from the list
 
+
 ### Auxiliary Linked Lists Operations
 
 • Delete List: removes all elements of the list (disposes the list)
@@ -26,6 +27,9 @@ properties.
 • Count: returns the number of elements in the list
 
 • Find nth node from the end of the list
+
+• Remove Dulicates in a Sorted Linked List
+
 
 ## Questions :
 * Insertion ----> [C++](/Code/C++/insertion_in_linked_list.cpp)
